@@ -1,0 +1,12 @@
+package edu.wgu.d387_take_2.model.response;/**
+ * Project: D387_take_2
+ * Package: edu.wgu.d387_take_2.model.response
+ * <p>
+ * User: carolyn.sher
+ * Date: 7/30/2022
+ * Time: 4:05 PM
+ * <p>
+ * Created with IntelliJ IDEA
+ * To change this template use File | Settings | File Templates.
+ */public class ReservationResponse {
+}
