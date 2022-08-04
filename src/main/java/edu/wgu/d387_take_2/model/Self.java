@@ -1,4 +1,6 @@
-package edu.wgu.d387_take_2.model;/**
+package edu.wgu.d387_take_2.model;
+
+/**
  * Project: D387_take_2
  * Package: edu.wgu.d387_take_2.model
  * <p>
@@ -8,5 +10,15 @@ package edu.wgu.d387_take_2.model;/**
  * <p>
  * Created with IntelliJ IDEA
  * To change this template use File | Settings | File Templates.
- */public class Self {
+ */
+public class Self {
+    private String ref;
+
+    public String getRef() {
+        return ref;
+    }
+
+    public void setRef(String ref) {
+        this.ref = ref;
+    }
 }
